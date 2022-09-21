@@ -4,5 +4,4 @@
 </p>
 # _Repo Asli amiruldev20_
 ## _Source [@adiwajshing/baileys](https://github.com/amiruldev20/Baileys)_
-> Fork Dari github amiruldev
- 
+
