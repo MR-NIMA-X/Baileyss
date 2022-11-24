@@ -1,8 +1,8 @@
 {
   "name": "baileys",
   "version": "8.0.0",
-  "description": "WhatsApp API",
-  "homepage": "https://github.com/amiruldev20/Baileys",
+  "description": "WhatsApp Api Mod",
+  "homepage": "https://github.com/hostinger-bot/Baileys",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "keywords": [
@@ -29,7 +29,7 @@
     "lint": "eslint ./src --ext .js,.ts,.jsx,.tsx",
     "lint:fix": "eslint ./src --fix --ext .js,.ts,.jsx,.tsx"
   },
-  "author": "Amirul Dev",
+  "author": "hostinger-bot",
   "license": "MIT",
   "repository": {
     "url": "git@github.com:hostinger-bot/Baileys.git"
