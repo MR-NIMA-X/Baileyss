@@ -1,6 +1,7 @@
 <p align="center">
 <img width="" src="https://img.shields.io/github/repo-size/amiruldev20/baileys?color=green&label=Repo%20Size&style=for-the-badge&logo=appveyor">
 
+> [`Baileys Multi Auth New`](https://github.com/BOTCAHX/Baileys)
 # Baileys - Typescript/Javascript WhatsApp Web API
  
  Baileys does not require Selenium or any other browser to be interface with WhatsApp Web, it does so directly using a **WebSocket**. Not running Selenium or Chromimum saves you like **half a gig** of ram :/ 
