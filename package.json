@@ -29,7 +29,7 @@
     "lint": "eslint ./src --ext .js,.ts,.jsx,.tsx",
     "lint:fix": "eslint ./src --fix --ext .js,.ts,.jsx,.tsx"
   },
-  "author": "hostinger-bot",
+  "author": "BOTCAHX",
   "license": "MIT",
   "repository": {
     "url": "git@github.com:BOTCAHX/Baileys.git"
